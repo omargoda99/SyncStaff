@@ -8,3 +8,21 @@ public class Main {
         System.out.println(engineer);
     }
 }
+/* Output -> 
+Employee: [
+  Name: Omar Goda,
+  ID: ENGJAVAINFRA_19285710,
+  Age: 23,
+  Gender: Male,
+  Position: Software Engineer,
+  Supervisor: Kareem Muhammed,
+  Salary: 16700.99$,
+  Points: 1001,
+  Final Salary After Raise: 16700.99$,
+  Status: Single
+]
+Family Details: [
+  [Ahmed, Sherif],
+  [Habiba Ahmed],
+  [Mr. Goda, Mrs. Goda],
+]*/
