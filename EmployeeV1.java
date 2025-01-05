@@ -25,7 +25,7 @@ class Employee {
         this.status=status;
     }
     public Double totalSalary(double salary){
-        double totalsalary=0;
+        double totalsalary;
         if(points > 1500){
             totalsalary = salary + (raise * 100);
         }
